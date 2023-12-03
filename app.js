@@ -1,7 +1,7 @@
 
-//d to proj23
 //mistake happend//
 //mistake happend//
+<<<<<<< HEAD
 //mistake happend//
 
 <<<<<<< HEAD
@@ -9,5 +9,9 @@
 ///uqdhkednajagit merge
 =======
 >>>>>>> main
+=======
+//updatin branch//
+//without pullin/
+>>>>>>> refs/remotes/origin/proj1
 
  
